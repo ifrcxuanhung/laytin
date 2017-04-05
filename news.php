@@ -11,7 +11,7 @@ $total_page=ceil($total/$item_per_page);
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
-<title>Danh sách tức đã lấy lan 2</title>
+<title>Danh sách tức đã lấy lan 3</title>
 <meta name="generator" content="minhtc.net" />
 <link href="css/style.css" rel="stylesheet" />
 </head>
