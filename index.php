@@ -19,7 +19,7 @@ Feed::feed_data($cmd);
 <body>
 <div>
 	<div class="clrfix">
-    	<h1 class="fl title">Lấy tin tự động haha</h1>
+    	<h1 class="fl title">Lấy tin tự động haha lan2</h1>
         <div class="fr">
         	<button onclick="feed_data();">Lấy tin</button>
             <button onclick="insert_data();" <?php if(!isset($items) or !$items){?> disabled<?php }?>>Chèn vào Database</button>
